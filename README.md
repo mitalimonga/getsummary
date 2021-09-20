@@ -1,5 +1,5 @@
 # Summary_Generator
-Used Flask API to integrate,python script with a web application. Deployment is done on Heroku cloud platform. Following is the link to the web application:    https://textsumgen.herokuapp.com/
+Used Flask API to integrate,python script with a web application. Deployment is done on Heroku cloud platform. Following is the link to the web application:    https://dry-forest-03649.herokuapp.com/
 
 # Requirements:
 You must have following python libararies installed on your machine. Please refer to requirements.txt file for details.
